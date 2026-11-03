@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env.local
+.env.*.local
+.firebase/
+firebase-debug.log
+*.tsbuildinfo
+vite.config.d.ts
+vite.config.js
